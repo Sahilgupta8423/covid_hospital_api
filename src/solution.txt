@@ -1,0 +1,13 @@
+instructions to run the code on Github
+
+• rum command <npm init> on root folder and install express, mongoose, validator using given commands <npm i express>, <npm i mongoose> and <npm i validator>
+
+• to statrt development server run command <node src/app.js>
+
+Task-2 How would you optimize API response time for the above APIs?
+
+• Check Your Hosting. Time spent waiting for your server to respond adds to your final page load times.
+• Choose Your Web Server Carefully.
+• Optimize Your Web Servers.
+• Reduce Bloat.
+• Optimize Your Database.
